@@ -147,7 +147,7 @@ describe('Resource(search)', function() {
         { username: 'edward', email: 'edward@gmail.com' },
         { username: 'arthur', email: 'aaaaarthur@gmail.com' },
         { username: '123', email: 'mike@gmail.com' }
-        ]
+      ]
     },
     {
       name: 'search in combination with filtered results',
